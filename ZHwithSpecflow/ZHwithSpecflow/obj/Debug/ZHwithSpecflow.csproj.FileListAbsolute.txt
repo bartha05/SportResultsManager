@@ -1,0 +1,11 @@
+C:\Users\timea.ferenczi\Documents\Visual Studio 2015\Projects\ZHwithSpecflow\ZHwithSpecflow\obj\Debug\ZHwithSpecflow.csprojResolveAssemblyReference.cache
+C:\Users\timea.ferenczi\Documents\Visual Studio 2015\Projects\ZHwithSpecflow\ZHwithSpecflow\bin\Debug\ZHwithSpecflow.exe.config
+C:\Users\timea.ferenczi\Documents\Visual Studio 2015\Projects\ZHwithSpecflow\ZHwithSpecflow\bin\Debug\ZHwithSpecflow.exe
+C:\Users\timea.ferenczi\Documents\Visual Studio 2015\Projects\ZHwithSpecflow\ZHwithSpecflow\bin\Debug\ZHwithSpecflow.pdb
+C:\Users\timea.ferenczi\Documents\Visual Studio 2015\Projects\ZHwithSpecflow\ZHwithSpecflow\bin\Debug\Newtonsoft.Json.dll
+C:\Users\timea.ferenczi\Documents\Visual Studio 2015\Projects\ZHwithSpecflow\ZHwithSpecflow\bin\Debug\nunit.framework.dll
+C:\Users\timea.ferenczi\Documents\Visual Studio 2015\Projects\ZHwithSpecflow\ZHwithSpecflow\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\timea.ferenczi\Documents\Visual Studio 2015\Projects\ZHwithSpecflow\ZHwithSpecflow\bin\Debug\Newtonsoft.Json.xml
+C:\Users\timea.ferenczi\Documents\Visual Studio 2015\Projects\ZHwithSpecflow\ZHwithSpecflow\bin\Debug\nunit.framework.xml
+C:\Users\timea.ferenczi\Documents\Visual Studio 2015\Projects\ZHwithSpecflow\ZHwithSpecflow\obj\Debug\ZHwithSpecflow.exe
+C:\Users\timea.ferenczi\Documents\Visual Studio 2015\Projects\ZHwithSpecflow\ZHwithSpecflow\obj\Debug\ZHwithSpecflow.pdb
