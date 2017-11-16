@@ -9,3 +9,6 @@ C:\Users\timea.ferenczi\Documents\Visual Studio 2015\Projects\ZHwithSpecflow\ZHw
 C:\Users\timea.ferenczi\Documents\Visual Studio 2015\Projects\ZHwithSpecflow\ZHwithSpecflow\bin\Debug\nunit.framework.xml
 C:\Users\timea.ferenczi\Documents\Visual Studio 2015\Projects\ZHwithSpecflow\ZHwithSpecflow\obj\Debug\ZHwithSpecflow.exe
 C:\Users\timea.ferenczi\Documents\Visual Studio 2015\Projects\ZHwithSpecflow\ZHwithSpecflow\obj\Debug\ZHwithSpecflow.pdb
+C:\Users\krisztian.bartha\documents\visual studio 2015\Projects\ConsoleApplication3\ZHwithSpecflow\ZHwithSpecflow\bin\Debug\ZHwithSpecflow.exe.config
+C:\Users\krisztian.bartha\documents\visual studio 2015\Projects\ConsoleApplication3\ZHwithSpecflow\ZHwithSpecflow\obj\Debug\ZHwithSpecflow.exe
+C:\Users\krisztian.bartha\documents\visual studio 2015\Projects\ConsoleApplication3\ZHwithSpecflow\ZHwithSpecflow\obj\Debug\ZHwithSpecflow.pdb
